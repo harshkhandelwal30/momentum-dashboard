@@ -8,7 +8,7 @@ Then displays stocks having** ranks > 90** in all 3 timeframes.
 These stocks are displaying highest momentum among all their peers and outperforming them.  
 Such type of stocks can be used to play different types of momentum strategies.  
 
-During a market rally phase, these stocks are the highest momentum gainers and are expected to continue doing the same.
+During a market rally phase, these stocks are the highest momentum gainers and are expected to continue doing the same.  
 During a market correction phase, these stocks would be the one correcting the least and have very high chance of outperformance when the market starts moving upwards.
 
 NOTE:-  
